@@ -1,6 +1,6 @@
 {
   "name": "@semantic-conventional/demo-lib",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "A demo library that uses conventional commits & semantic release",
   "main": "index.js",
   "scripts": {

@@ -4,7 +4,8 @@
   "description": "A demo library that uses conventional commits & semantic release",
   "main": "index.js",
   "scripts": {
-    "test": "node index.spec.js"
+    "test": "node index.spec.js",
+    "release": "semantic-release"
   },
   "repository": {
     "type": "git",

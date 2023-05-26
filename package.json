@@ -1,0 +1,19 @@
+{
+  "name": "demo-lib",
+  "version": "0.0.0",
+  "description": "A demo library that uses conventional commits & semantic release",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semantic-conventional/demo-lib.git"
+  },
+  "author": "Erik Hofer",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/semantic-conventional/demo-lib/issues"
+  },
+  "homepage": "https://github.com/semantic-conventional/demo-lib#readme"
+}

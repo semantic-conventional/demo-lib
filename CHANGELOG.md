@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/semantic-conventional/demo-lib/compare/v2.0.0...v2.0.1) (2023-06-01)
+
+
+### Bug Fixes
+
+* **colors:** re-add ugly colors ([#6](https://github.com/semantic-conventional/demo-lib/issues/6)) ([2dd0604](https://github.com/semantic-conventional/demo-lib/commit/2dd0604e806b98ba555c810cb8ae7c4aee9c1cfa))
+
 # [2.0.0](https://github.com/semantic-conventional/demo-lib/compare/v1.0.0...v2.0.0) (2023-06-01)
 
 

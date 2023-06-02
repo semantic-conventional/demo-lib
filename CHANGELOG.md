@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/semantic-conventional/demo-lib/compare/v3.0.0...v3.0.1) (2023-06-02)
+
+
+### Bug Fixes
+
+* restore removed colors ([#8](https://github.com/semantic-conventional/demo-lib/issues/8)) ([5a35564](https://github.com/semantic-conventional/demo-lib/commit/5a35564811922e205f65f5a362119511cc420868))
+
 # [3.0.0](https://github.com/semantic-conventional/demo-lib/compare/v2.0.1...v3.0.0) (2023-06-02)
 
 

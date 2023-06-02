@@ -31,6 +31,14 @@ module.exports = {
     {
       "name": "Verdant Oasis",
       "code": "#008080"
+    },
+    {
+      "name": "Sable Rose",
+      "code": "#90303C"
+    },
+    {
+      "name": "Iridescent Pearl",
+      "code": "#EAEAEA"
     }
   ]  
 }

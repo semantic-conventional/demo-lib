@@ -1,3 +1,17 @@
+# [3.0.0](https://github.com/semantic-conventional/demo-lib/compare/v2.0.1...v3.0.0) (2023-06-02)
+
+
+### Bug Fixes
+
+* **colors:** remove ugly colors ([#7](https://github.com/semantic-conventional/demo-lib/issues/7)) ([5910536](https://github.com/semantic-conventional/demo-lib/commit/59105367d331c5682916843d08df7937ba3dfdae))
+
+
+### BREAKING CHANGES
+
+* **colors:** if you address colors explicilty, they may be gone
+
+Co-authored-by: Erik Hofer <erik.hofer@bmiag.de>
+
 ## [2.0.1](https://github.com/semantic-conventional/demo-lib/compare/v2.0.0...v2.0.1) (2023-06-01)
 
 
